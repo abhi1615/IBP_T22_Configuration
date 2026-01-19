@@ -1,0 +1,4 @@
+﻿ID;Name;Level;Base Level;Period Type;Default Display Horizon in the Past;Default Display Horizon in the Future;Assigned Attributes
+122;Monthly;1;0;Month;6;24;
+122;Quarterly;2;1;Quarter;2;3;
+122;Yearly;3;2;Year;1;2;

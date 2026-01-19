@@ -1,0 +1,17 @@
+﻿ID;Key Figure ID;Name;Description;Version-Specific Key Figure;Baseline Key Figure;Base Planning Level;Stored Key Figure;Calculated Key Figure;Alert Key Figure;Snapshot Key Figure;Helper Key Figure;Attribute Transformation
+UPSIDE;ACTUALSQTY;Actuals Qty;Actuals Qty;;X;PERPRODCUST;X;;;;;
+UPSIDE;ACTUALSQTYOFFSETSTORED;Previous Year History (Stored);Previous Year History (Stored);X;;PERPRODCUST;X;;;;;
+UPSIDE;CAPACONSUMPTION;Capacity Consumption;Capacity Consumption;X;;PERPRODLOCRES;X;;;;;
+UPSIDE;CAPADEMAND;Unconstrained Load;Unconstrained Load;X;;PERPRODLOCRES;;X;;;;
+UPSIDE;CAPAOVERLOADALERT;Capacity Overload Alert;Capacity Overload Alert;X;;PERLOCRES;;X;X;;;
+UPSIDE;CAPASUPPLY;Capacity Limit;Capacity Supply;X;;PERLOCRES;X;;;;;
+UPSIDE;CONSENSUSDEMANDQTY;Consensus Demand Qty;Consensus Demand Qty;X;;PERPRODCUST;X;X;;;;
+UPSIDE;CONSENSUSDEMANDREV;Consensus Demand Revenue;Consensus Demand Revenue;X;;PERPRODCUST;;X;;;;
+UPSIDE;CUSTOMERRATIO;Sourcing Ratio;Sourcing Ratio;X;;PERPRODLOCCUST;X;;;;;
+UPSIDE;CUSTOMERREVENUE;Customer Revenue;Customer Revenue;X;;PERPRODCUST;X;;;;;
+UPSIDE;DEPENDENTDEMANDQTY;Demand by Location;Demand by Location;X;;PERPRODLOC;;X;;;;
+UPSIDE;INITIALINVENTORYQTY;Initial Inventory Qty;Initial Inventory Qty;X;;MTHPRODLOC;X;;;;;
+UPSIDE;INVENTORYTARGETQTY;INVENTORYTARGETQTY;INVENTORYTARGETQTY;X;;MTHPRODLOC;X;;;;;
+UPSIDE;MARKETINGFORECASTQTY;Marketing Forecast Qty;Marketing Forecast Qty;X;;PERPRODCUST;X;;;;;
+UPSIDE;PRICEUNIT;Unit Price;Unit Price;X;;PERPRODCUST;X;;;;;
+UPSIDE;SALESFORECASTQTY;Sales Forecast Qty;Sales Forecast Qty;X;;PERPRODCUST;X;;;;;

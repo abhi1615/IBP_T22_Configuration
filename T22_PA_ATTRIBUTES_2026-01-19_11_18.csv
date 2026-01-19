@@ -1,0 +1,20 @@
+﻿Planning Area ID;Master Data Type ID;Attribute ID;Data Type;Length;Planning Area Attribute Name;Planning Area Attribute Description;Business Meaning;Attribute Category;Planning Level Independent
+T22;I22CURRENCY;I22CURRDESCR;NVARCHAR;40;Currency Description 22;Currency Description 22;;Optional;
+T22;I22CURRENCY;I22CURRID;NVARCHAR;20;Currency From 22;Currency From 22;;Optional;
+T22;I22CURRENCYTO;I22CURRTODESCR;NVARCHAR;40;Currency To Description22;Currency To Description22;;Optional;
+T22;I22CURRENCYTO;I22CURRTOID;NVARCHAR;20;Currency To 22;Currency To 22;;Optional;
+T22;I22CUSTOMER;CUSTDESCR;NVARCHAR;60;Customer Desc.;Customer Desc.;;Optional;
+T22;I22CUSTOMER;CUSTID;NVARCHAR;20;Customer ID;Customer ID;;Optional;
+T22;I22CUSTOMER;CUSTREGION;NVARCHAR;20;Customer Region;Customer Region;;Optional;
+T22;I22LOCATION;LOCDESCR;NVARCHAR;60;Location;Location;;Optional;
+T22;I22LOCATION;LOCID;NVARCHAR;20;Location ID;Location ID;;Optional;
+T22;I22PRODUCT;ABCCODE;NVARCHAR;3;ABC Code;ABC Code;;Optional;
+T22;I22PRODUCT;I22UOMDESCR;NVARCHAR;40;UOM Description22;UOM Description22;;Optional;
+T22;I22PRODUCT;I22UOMID;NVARCHAR;20;UOM From;UOM From22;Target Unit of Measure Identifier;Optional;
+T22;I22PRODUCT;PRDDESCR;NVARCHAR;60;Product Desc;Product Desc;;Optional;
+T22;I22PRODUCT;PRDFAMILY;NVARCHAR;40;Product Family;Product Family;;Optional;
+T22;I22PRODUCT;PRDID;NVARCHAR;40;Product ID;Product ID;;Optional;
+T22;I22RESOURCE;RESDESCR;NVARCHAR;60;Resource Desc.;Resource Desc.;;Optional;
+T22;I22RESOURCE;RESID;NVARCHAR;40;Resource ID;Resource ID;;Optional;
+T22;I22UOMTO;I22UOMTODESCR;NVARCHAR;40;UOM To Description22;UOM To Description22;;Optional;
+T22;I22UOMTO;I22UOMTOID;NVARCHAR;20;UOM To22;UOM To22;;Optional;

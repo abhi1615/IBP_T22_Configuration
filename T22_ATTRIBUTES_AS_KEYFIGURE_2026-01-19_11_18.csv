@@ -1,0 +1,6 @@
+﻿Master Data Type ID;Attribute ID;Planning Area Attribute Description;From Period;To Period;Time Reference Attribute;Value by Reference
+I22CUSTOMERPRODUCT;PRICEUNIT;Price Unit;;;;false
+I22EXCHANGERATE;I22EXCHGRATE;Exchange Rate 22;-6;12;;false
+I22RESOURCELOCATION;CAPASUPPLY;Capacity Supply;;;;false
+I22RESOURCELOCATIONPRODUCT;CAPACONSUMPTION;Capacity Consumption Rate;;;;false
+I22UOMCONVERSION;I22UOMCONVFACTOR;UOM Conversion Factor22;0;0;;false
